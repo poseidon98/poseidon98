@@ -10,7 +10,7 @@ i have experience make a website application using PHP (laravel), CSS (Tailwind,
 * 🖥️  See my portfolio at [My Portfolio](http://www.smkharapanbangsa.sch.id/)
 * ✉️  You can contact me at [bickrikhidam@gmail.com](mailto:bickrikhidam@gmail.com)
 * 🤝  I'm open to collaborating on projects
-* ⚡  I have super power, please don.t tell anyone
+* ⚡  I have super power, please don't tell anyone
 
 ### Skills
 
